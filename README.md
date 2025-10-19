@@ -1,3 +1,9 @@
+# ZAUTODOC_BW & ZAUTODOC_BW_LAUNCH — SAP BW Autodocumentation (ABAP)
+
+This repository contains two ABAP programs designed to auto-document multiple SAP BW components (InfoObjects, ADSOs, Cubes, DataSources, Transformations, Queries, etc.) by generating structured .csv files ready for analysis. 
+
+---
+
 > ⚙️ **Create the following ABAP programs in SE38 before using this repository**
 >
 > ### 📌 Included Programs
